@@ -1,0 +1,139 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "EN",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Alvaro",
+      "surnames": "Cuesta Viñolo",
+      "title": "Headline test",
+      "description": "Fast and Focus\nTeam lover",
+      "avatar": {
+        "alt": "1517343247880.jpeg",
+        "link": "https://test-asgard-media.s3.eu-west-1.amazonaws.com/22/04/18/e1db7459-651b-4ff7-9f52-d168c2651d09_1517343247880.jpeg"
+      },
+      "location": {
+        "notes": "Madrid"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "other",
+        "URL": "http://google.com"
+      },
+      {
+        "type": "other",
+        "URL": "http://google2.com"
+      },
+      {
+        "type": "github",
+        "URL": "https://github.com/acuesta"
+      },
+      {
+        "type": "linkedin",
+        "URL": "https://linkedin.com/in/alcuvi"
+      },
+      {
+        "type": "other",
+        "URL": "https://stackoverflow.com/users/3974891/alcuvi"
+      }
+    ],
+    "interestingFacts": [
+      {
+        "topic": "Favorite editor",
+        "fact": "Visual Studio Code"
+      }
+    ]
+  },
+  "experience": {
+    "projects": [
+      {
+        "details": {
+          "name": "prueba side project",
+          "description": "test desc",
+          "URL": "http://www.payvision.com",
+          "image": {
+            "alt": "1519912573227.jpeg",
+            "link": "https://test-asgard-media.s3.eu-west-1.amazonaws.com/22/04/19/625cdf7d-27b8-4982-9cfd-007ea65fe8be_1519912573227.jpeg"
+          }
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2020-03-01",
+            "competences": [
+              {
+                "name": "3D Studio Max",
+                "type": "technology"
+              },
+              {
+                "name": "AB Tasty",
+                "type": "technology"
+              },
+              {
+                "name": "AEM (Adobe Experience Manager)",
+                "type": "technology"
+              },
+              {
+                "name": "Action Script",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "Spanish"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Typescript",
+          "type": "technology"
+        }
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "type": "linkedin",
+          "URL": "https://linkedin.com/in/alcuvi"
+        },
+        {
+          "type": "other",
+          "URL": "https://stackoverflow.com/users/3974891/alcuvi"
+        }
+      ]
+    },
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "Node",
+          "type": "technology"
+        }
+      ],
+      "discardedCompetences": [
+        {
+          "name": "MongoDB",
+          "type": "technology"
+        }
+      ]
+    }
+  }
+}
