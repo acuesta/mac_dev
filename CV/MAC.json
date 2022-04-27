@@ -124,13 +124,19 @@
     "preferences": {
       "preferredCompetences": [
         {
-          "name": "Node",
+          "name": "JavaScript",
           "type": "technology"
-        }
-      ],
-      "discardedCompetences": [
+        },
         {
           "name": "MongoDB",
+          "type": "technology"
+        },
+        {
+          "name": "Node",
+          "type": "technology"
+        },
+        {
+          "name": "Typescript",
           "type": "technology"
         }
       ]
