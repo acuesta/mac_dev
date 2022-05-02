@@ -8,11 +8,11 @@
     "profile": {
       "name": "Alvaro",
       "surnames": "Cuesta Viñolo",
-      "title": "Headline test case for 1",
+      "title": "Headline test case for 2",
       "description": "Fast and Focus\nTeam lover",
       "avatar": {
         "alt": "1517343247880.jpeg",
-        "link": "https://test-asgard-media.s3.eu-west-1.amazonaws.com/22/04/18/e1db7459-651b-4ff7-9f52-d168c2651d09_1517343247880.jpeg"
+        "link": "https://test-asgard-media.s3.eu-west-1.amazonaws.com/22/05/02/f409aa95-55c8-43e2-b603-186539c3c3a3_e1db7459-651b-4ff7-9.jpeg"
       },
       "location": {
         "notes": "Madrid"
@@ -56,7 +56,7 @@
           "URL": "http://www.payvision.com",
           "image": {
             "alt": "1519912573227.jpeg",
-            "link": "https://test-asgard-media.s3.eu-west-1.amazonaws.com/22/04/19/625cdf7d-27b8-4982-9cfd-007ea65fe8be_1519912573227.jpeg"
+            "link": "https://test-asgard-media.s3.eu-west-1.amazonaws.com/22/05/02/b652d200-f4b3-48e7-bbdd-49e59f7978d4_625cdf7d-27b8-4982-9.jpeg"
           }
         },
         "type": "sideProject",
@@ -88,21 +88,10 @@
     ]
   },
   "knowledge": {
-    "languages": [
-      {
-        "name": "Spanish"
-      }
-    ],
     "hardSkills": [
       {
         "skill": {
           "name": "JavaScript",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Typescript",
           "type": "technology"
         }
       }
@@ -129,14 +118,6 @@
         },
         {
           "name": "MongoDB",
-          "type": "technology"
-        },
-        {
-          "name": "Node",
-          "type": "technology"
-        },
-        {
-          "name": "Typescript",
           "type": "technology"
         }
       ]
