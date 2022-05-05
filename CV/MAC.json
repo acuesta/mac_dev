@@ -48,6 +48,30 @@
     ]
   },
   "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "INg"
+        },
+        "roles": [
+          {
+            "name": "full estambul",
+            "startDate": "2020-02-01",
+            "challenges": [
+              {
+                "description": "full estambul "
+              }
+            ],
+            "competences": [
+              {
+                "name": "Node",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      }
+    ],
     "projects": [
       {
         "details": {
